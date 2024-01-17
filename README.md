@@ -39,4 +39,4 @@ Created a footer to end the page.
 Fonts
 Use the Sharp Sans No2 Medium and Avenir fonts found in the font catalog.
 
- [DEMO LINK](https://denys2.github.io/Portfolio-landing-pages/).
+ [DEMO LINK](https://denys2.github.io/Portfolio-Shop-eco-cosmetics/)
