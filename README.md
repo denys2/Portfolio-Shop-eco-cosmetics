@@ -1,4 +1,4 @@
-# Landing "Eco-cosmetics"
+# Shop "Eco-cosmetics"
 
 # Presentation of the Project
 
